@@ -1,4 +1,5 @@
 <p align="center">
+  
   ## 👋 Hi there, I'm Dan
   ---
 
@@ -9,9 +10,9 @@
 - 🔭 I’m currently working on a computer vision project for object detection.
 - 🌱 I’m currently learning AI Agents, Local LLM Training
 
+---
 
 ## 🛠 Skills
----
 
 - **Languages:** Python (pandas, numpy, scikit-learn, PyTorch), SQL
 - **DS/ML:** classic (regression, classification), CV
@@ -19,9 +20,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,postgres,anaconda,pytorch,sklearn,tensorflow)](https://skillicons.dev)
 
+---
 
 ## 📫 Contacts 
----
 
 - Email: kibardin.daniil@gmail.com
 - Telegram: ![Movarth](https://t.me/Movarth)
