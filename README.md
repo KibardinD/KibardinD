@@ -1,18 +1,12 @@
-<p align="center">
-  
-  ## 👋 Hi there, I'm Dan
-  ---
-
-  **Data Scientist | Machine Learning Engineer**  
-</p>
-
+<h2 align="center">👋 Hi there, I'm Dan</h2>
+<h3 align="center">Data Scientist</h3>
 
 - 🔭 I’m currently working on a computer vision project for object detection.
 - 🌱 I’m currently learning AI Agents, Local LLM Training
 
 ---
 
-## 🛠 Skills
+### 🛠 Skills
 
 - **Languages:** Python (pandas, numpy, scikit-learn, PyTorch), SQL
 - **DS/ML:** classic (regression, classification), CV
@@ -22,10 +16,10 @@
 
 ---
 
-## 📫 Contacts 
+### 📫 Contacts 
 
 - Email: kibardin.daniil@gmail.com
-- Telegram: ![Movarth](https://t.me/Movarth)
+- Telegram: [Movarth](https://t.me/Movarth)
 
 
 <!-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
